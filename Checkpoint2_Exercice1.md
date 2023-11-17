@@ -11,3 +11,7 @@
 1-3) Le client n'obtient pas la première adresse du réseau car il y a une plage réservé de 01 à 19
 
 ![Capture d'écran 2023-11-17 100849](https://github.com/Bouns77/checkpoint2/assets/144699498/ca721919-70e6-4494-983c-65a556528ac0)
+
+1-4) Oui il est possible de donner l'adresse 172.16.10.15 au client pour cela il suffit de faire une réservation sur le serveur avec l'adresse MAC du client 
+
+![Capture d'écran 2023-11-17 210538](https://github.com/Bouns77/checkpoint2/assets/144699498/8eb74efd-9461-4674-964e-1ebf2b9b4029)
