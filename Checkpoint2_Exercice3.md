@@ -65,9 +65,11 @@ La source :10.10.4.2 est le PC4
 La destination : 172.16.5.253 est g2/0
 
 Q.3.22 Quelles sont les adresses mac source et destination ? Qu'en déduis-tu ?
+
 Src:ca:01:da:d2:00:1c, Dst: ca:03:9e:ef:00:38
 
 Q.3.23 A quel emplacement du réseau a été enregistré cette communication ?
+
 Cette information a été enregistré sur le PC4 
 
 
