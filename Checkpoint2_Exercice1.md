@@ -15,3 +15,5 @@
 1-4) Oui il est possible de donner l'adresse 172.16.10.15 au client pour cela il suffit de faire une réservation sur le serveur avec l'adresse MAC du client 
 
 ![Capture d'écran 2023-11-17 210538](https://github.com/Bouns77/checkpoint2/assets/144699498/8eb74efd-9461-4674-964e-1ebf2b9b4029)
+
+![Capture d'écran 2023-11-17 212051](https://github.com/Bouns77/checkpoint2/assets/144699498/3ef3bd28-17c5-486a-b394-28439e17d955)
