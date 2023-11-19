@@ -41,7 +41,7 @@ $Path = "C:\Scripts"
 $CsvFile = "$Path\Users.csv"
 $LogFile = "$Path\Log.log"
 
-$Users = Import-Csv -Path $CsvFile -Delimiter ";" -Header "prenom","nom","fonction","description" -Encoding UTF8  | Select-Object -Skip 1
+$Users = Import-Csv -Path $CsvFile -Delimiter ";" -Header "prenom","nom","société","fonction","service","description" -Encoding UTF8  | Select-Object -Skip 1
 
 foreach ($User in $Users)
 {
