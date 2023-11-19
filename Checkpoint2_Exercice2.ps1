@@ -66,7 +66,7 @@ foreach ($User in $Users)
 
         New-LocalUser @UserInfo
         Add-LocalGroupMember -Group "Utilisateurs" -Member "$Name"
-        Log -FilePath $LogFile -Content "L'utilisateur $Name a été crée avec le mot de passe $Password"
+        Log -FilePath $LogFile -Content "L'utilisateur $Name a été crée avec le mot de passe $Pass"
     }
      else
     {
