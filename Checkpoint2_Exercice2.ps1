@@ -56,8 +56,8 @@ foreach ($User in $Users)
         $Password = (ConvertTo-secureString $Pass -AsPlainText -Force)
         $Description = "$($user.description) - $($User.fonction)"
         $UserInfo = @{
-            Name                 = "$Prenom.$Nom"
-            FullName             = "$Prenom.$Nom"
+            Name                 = "$Name"
+            FullName             = "$Name"
             Password             = $Password
             AccountNeverExpires  = $true
             PasswordNeverExpires = $true
